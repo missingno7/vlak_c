@@ -1,0 +1,3 @@
+[submodule "reference/upstream"]
+	path = reference/upstream
+	url = https://github.com/oldcompcz/vlak.git
