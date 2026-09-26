@@ -1,0 +1,4 @@
+build/
+attic/
+__pycache__/
+*.pyc
